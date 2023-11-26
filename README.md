@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasshukla19&label=Profile%20views&color=0e75b6&style=flat" alt="manasshukla19" /> </p>
 
-- 📫 How to reach me **manasshukla1903@gmail.com**
+- 📫 How to reach me: **manasshukla1903@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/manas-shukla-resume](https://bit.ly/manas-shukla-resume)
+- 📄 Know about my experiences: [https://bit.ly/manas-shukla-resume](https://bit.ly/manas-shukla-resume)
 
 <br>
 <h3 align="left">Connect with me:</h3>
