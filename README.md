@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Shukla</h1>
 <h3 align="center">Student at VIT Bhopal University</h3>
-
+<br>
 <img align="right" alt="gif" width="350" src="https://miro.medium.com/v2/resize:fit:1358/0*ygaHmPjQnVmEApdT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasshukla19&label=Profile%20views&color=0e75b6&style=flat" alt="manasshukla19" /> </p>
