@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **manasshukla1903@gmail.com**
 
-- 📄 Know about my experiences: [https://bit.ly/manas-shukla-resume](https://bit.ly/manas-shukla-resume)
+- 📄 Know about my experiences: [https://shorturl.at/QCSBp](https://shorturl.at/QCSBp)
 
 <br>
 <h3 align="left">Connect with me:</h3>
